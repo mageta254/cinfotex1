@@ -1,1 +1,1 @@
-
+Image storage folder
